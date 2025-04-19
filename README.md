@@ -4,6 +4,7 @@ A first year Computer Science student in Dublin.
 - ❤️ Interested in Software Development, Artificial Intelligence and Machine Learning
 - 🌱 Currently expanding my skills in Swift
 - 🔍 In the process of uploading my solutions to programming challenges to document my learning journey
+- 👩‍💻 Also currently updating my portfolio to reflect my recent work and enhancing it with Javascript
 ## Learn More
 - 🎨 Check out my portfolio at [aoifeguanzon.github.io](https://aoifeguanzon.github.io/)
 - 💌 Reach out to me at aoifeguanzon@gmail.com
