@@ -1,9 +1,20 @@
 # Hi, I'm Aoife! 🌟
 A first year Computer Science student in Dublin.
-- ❤️ Interested in Software Development, AI and Machine Learning
+- ❤️ Interested in Software Development, Artificial Intelligence, Machine Learning, and Web Development
 - 💌 Reach out to me at aoifeguanzon@gmail.com
-- 👩🏻‍💻 Check out my portfolio [aoifeguanzon.github.io](https://aoifeguanzon.github.io/)
-
+- 🔍 Check out my portfolio at [aoifeguanzon.github.io](https://aoifeguanzon.github.io/)
+## My Skills 🧠
+- Python
+- Javascript
+- Swift
+- HTML
+- CSS
+- Bootstrap
+- React.js
+- Node.js
+- Git
+- Linux
+- Shell scripting
 <!--
 **aoifeguanzon/aoifeguanzon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
