@@ -1,5 +1,5 @@
-# Hi, I'm Aoife!
-A first year Computer Science student in Dublin
+# Hi, I'm Aoife! 🌟
+A first year Computer Science student in Dublin.
 - ❤️ Interested in Software Development, AI and Machine Learning
 - 💌 Reach out to me at aoifeguanzon@gmail.com
 - 👩🏻‍💻 Check out my portfolio [aoifeguanzon.github.io](https://aoifeguanzon.github.io/)
