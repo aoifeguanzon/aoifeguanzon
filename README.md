@@ -6,7 +6,7 @@ A first year Computer Science student in Dublin.
 - 🔍 In the process of uploading my solutions to programming challenges to document my learning journey
 - 👩‍💻 Also currently enhancing my portfolio with Javascript and updating it to showcase my recent work
 ## Learn More
-- 🎨 Check out my portfolio at [aoifeguanzon.github.io](https://aoifeguanzon.github.io/)
+- 🎨 See my portfolio at [aoifeguanzon.github.io](https://aoifeguanzon.github.io/)
 - 💌 Reach out to me at aoifeguanzon@gmail.com
 ## My Skills
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
