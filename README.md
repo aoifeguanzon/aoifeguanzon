@@ -2,7 +2,7 @@
 A first year Computer Science student in Dublin.
 ## About Me
 - ❤️ Interested in Software Engineering
-- 🌱 Currently expanding my skills in Swift
+- 🌱 Currently learning SQL
 - 🔍 In the process of uploading my solutions to programming challenges to document my learning journey
 - 👩‍💻 Also currently enhancing my portfolio with Javascript and updating it to showcase my recent work
 ## Learn More
