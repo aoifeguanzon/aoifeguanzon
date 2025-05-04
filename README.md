@@ -1,7 +1,7 @@
 # Hi, I'm Aoife! 🌟
 A first year Computer Science student in Dublin.
 ## About Me
-- ❤️ Interested in Software Development, Artificial Intelligence and Machine Learning
+- ❤️ Interested in Software Engineering
 - 🌱 Currently expanding my skills in Swift
 - 🔍 In the process of uploading my solutions to programming challenges to document my learning journey
 - 👩‍💻 Also currently enhancing my portfolio with Javascript and updating it to showcase my recent work
