@@ -4,7 +4,7 @@ A first year Computer Science student in Dublin.
 - ❤️ Interested in Software Engineering
 - 🌱 Currently learning SQL
 - 🔍 In the process of uploading my solutions to programming challenges to document my learning journey
-- 👩‍💻 Also currently enhancing my portfolio with Javascript and updating it to showcase my recent work
+- 👩‍💻 Also currently building an iOS app using Swift and SwiftUI
 ## Learn More
 - 🎨 See my portfolio at [aoifeguanzon.github.io](https://aoifeguanzon.github.io/)
 - 💌 Reach out to me at aoifeguanzon@gmail.com
