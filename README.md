@@ -7,7 +7,6 @@ A first year Computer Science student in Dublin.
 - 👩‍💻 Also currently building an iOS app using Swift and SwiftUI
 ## Learn More
 - 🎨 See my portfolio at [aoifeguanzon.github.io](https://aoifeguanzon.github.io/)
-- 💌 Reach out to me at aoifeguanzon@gmail.com
 <!--
 **aoifeguanzon/aoifeguanzon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
