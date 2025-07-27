@@ -1,10 +1,9 @@
 # Hi, I'm Aoife! 🌟
 A first year Computer Science student in Dublin.
 ## About Me
-- ❤️ Interested in Software Engineering
-- 🌱 Currently learning SQL
-- 🔍 In the process of uploading my solutions to programming challenges to document my learning journey
-- 👩‍💻 Also currently building an iOS app using Swift and SwiftUI
+- ❤️ Interested in Full-Stack Development and Design.
+- 👩‍💻 Currently building ReWear
+
 ## Learn More
 - 🎨 See my portfolio at [aoifeguanzon.github.io](https://aoifeguanzon.github.io/)
 <!--
