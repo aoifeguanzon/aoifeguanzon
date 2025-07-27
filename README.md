@@ -1,8 +1,11 @@
 # hi, i'm aoife! 🌟
+## about me
+- 🍀 computer science student in dublin
+- ❤️ interested in full-stack development and design
 
-🏫 i'm studying computer science in dublin
-❤️ i'm interested in full-stack development and design
-🎨 see my portfolio at [aoifeguanzon.github.io](https://aoifeguanzon.github.io/)
+## learn more
+- 🎨 see examples of my work on my [portfolio](https://aoifeguanzon.github.io/)
+- 👔 keep up with my projects on [linkedin](https://www.linkedin.com/in/aoifeguanzon/)
 <!--
 **aoifeguanzon/aoifeguanzon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
