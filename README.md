@@ -1,11 +1,8 @@
-# Hi, I'm Aoife! 🌟
-A first year Computer Science student in Dublin.
-## About Me
-- ❤️ Interested in Full-Stack Development and Design.
-- 👩‍💻 Currently building ReWear
+# hi, i'm aoife! 🌟
 
-## Learn More
-- 🎨 See my portfolio at [aoifeguanzon.github.io](https://aoifeguanzon.github.io/)
+- i'm studying computer science in dublin
+- i'm a full-stack developer and designer
+- see my portfolio at [aoifeguanzon.github.io](https://aoifeguanzon.github.io/)
 <!--
 **aoifeguanzon/aoifeguanzon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
