@@ -1,22 +1,7 @@
-# hi, i'm aoife! 🌟
-## about me
-- 🍀 computer science student in dublin
-- ❤️ interested in full-stack development and design
-
-## learn more
-- 🎨 see examples of my work on my [portfolio](https://aoifeguanzon.github.io/)
-- 👔 keep up with my projects on [linkedin](https://www.linkedin.com/in/aoifeguanzon/)
-<!--
-**aoifeguanzon/aoifeguanzon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Welcome!
+Hi, I'm Aoife, a Computer Science student who loves coding and creativity.
+# Experience
+- Computer Science at Dublin City University
+- Secretary at Redbrick - DCU's Computer Networking Society
+- Fidelity Women in STEM 2025 Scholar
+- 2025 SZN Zero Hackathon Winner
